@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Bonjour ! Je suis Yann Sasse
+### Bonjour ! Je suis Yann Sasse
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yann-sasse-68655a310/" target="_blank">

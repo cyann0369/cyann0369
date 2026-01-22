@@ -76,6 +76,6 @@ Voici une sélection de projets qui illustrent mon parcours et mes compétences.
 
 ### 🌱 En ce moment...
 
-Je développe actuellement un **générateur d'œuvres artistiques** à l'aide de Réseaux Antagonistes Génératifs (**GANs**). Je m'intéresse également aux modèles de recherche sémantique (**RAG avec ColBERT**) et au Topic Modeling (**BERTopic**).
+Je construis à l'aide de n8n, un workflow agentique qui détecte de petites entreprises locales (Bouches-du-Rhône, Vaucluse, Alpes-de-Haute-Provence), intervenant dansles secteurs de l'artisanat, de la pâtisserie, de la boulangerie, ou proposant des ateliers créatifs. L'idée est de proposer de manière automatique et personnalisée, des ofrres de publicité dans le quotidien La Provence (ainsi qu'un relais sur les comptes sociaux).
 
 ---
